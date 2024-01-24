@@ -2,8 +2,8 @@
 
 <p align="center">
   <a href="#-tecnologias-envolvidas">Tecnologias '📌'</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-sobre-o-projeto">Projeto '📲'
-</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-sobre-o-projeto">Projeto '📲' </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout '📐'</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
@@ -25,7 +25,7 @@
 
 
 
-## Layout
+## 📸 Layout
 
 <h4 align="center">Imagem GustavoFlix</h4> 
 <div align="center">
